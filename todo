@@ -1,0 +1,12 @@
+Add a disclaimer at the bottom of the changes log page & index page 
+for example: "join the discord if you run into any issues<br>(button)
+^^----COMPLETED----^^
+
+
+BEFORE RELEASE:
+
+FIX DOC ERRORS:=
+CHANGE DESTINATION FILES IN INDEX.HTML CHANGELOG FOR "Downloading EasyInstaller" & "Downloading Launcher"
+
+saved:
+<li><a class="btn-nav js-scroll-trigger" href="#">Play Now!</a></li>
